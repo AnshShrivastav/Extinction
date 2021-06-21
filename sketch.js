@@ -95,7 +95,7 @@ function draw()
    background(0);
    fill("yellow");
    textSize(20);
-   text("Earth & humanity were facing its difficult times due to cosmic threats ",180,150);
+   text("Earth & humanity were facing its difficult times due to cosmic threats & pollution on earth",160,150);
    text("and decided to flee from earth in search for a better place to live but ",180,170);
    text("Press C to continue ===>",200,220);
    if(keyDown("C")){
