@@ -96,8 +96,8 @@ function draw()
    fill("yellow");
    textSize(20);
    text("Earth & humanity were facing its difficult times due to cosmic threats  ",140,150);
-   text("& pollution on earth",150,170);
-   text("and decided to flee from earth in search for a better place to live but ",150,190);
+   text("& pollution on earth slowly the oxygen on earth was diminishing ",150,170);
+   text("so it was decided to leave earth and search for a better place to live but... ",150,190);
    fill("red")
    text("Press C to continue ===>",200,220);
    if(keyDown("C")){
