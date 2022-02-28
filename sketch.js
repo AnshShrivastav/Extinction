@@ -83,9 +83,9 @@ function draw()
 {
   background(bgImg);  
 
-   fill(0);
-   textSize(20);
-   text(mouseX + "," + mouseY,mouseX,mouseY);
+   //fill(0);
+   //textSize(20);
+   //text(mouseX + "," + mouseY,mouseX,mouseY);
 
   
 
